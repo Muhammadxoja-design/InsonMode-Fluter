@@ -18,6 +18,8 @@ dependencies:
   lucide_icons: ^0.257.0
   glassmorphism: ^3.0.0
   cupertino_icons: ^1.0.6
+  pinput: ^6.0.2
+  url_launcher: ^6.3.2
 
 dev_dependencies:
   flutter_test:

@@ -102,7 +102,7 @@ class HomeScreen extends ConsumerWidget {
               "FOCUS SCORE",
               style: GoogleFonts.inter(
                 fontSize: 14,
-                color: Colors.white50,
+                color: Colors.white54,
                 letterSpacing: 1.5,
               ),
             ),
